@@ -2669,7 +2669,6 @@ dependencies = [
  "futures",
  "ipfs-embed",
  "libipld",
- "libp2p-dns",
  "tracing-subscriber",
 ]
 
